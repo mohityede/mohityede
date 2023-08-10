@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohityede
 - 👀 I’m interested in coding & web development
-- 🌱 I’m currently learning Microsoft Azure
+- 🌱 I’m currently working on Azure cloud to manage cloud infrastructure for clients.
 - 💞️ I’m looking to collaborate development of full stack MERN stack application
 - 📫 How to reach me mohityede755@gmail.com
 
